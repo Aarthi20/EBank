@@ -1,0 +1,21 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+.heading-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+.text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.card {
+  width: 500px;
+}

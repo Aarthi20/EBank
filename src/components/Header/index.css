@@ -1,0 +1,19 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  padding: 18px;
+}
+.logo {
+  width: 50px;
+}
+.logout-button {
+  color: #e0eefe;
+  background-color: transparent;
+  border: 1px solid #e0eefe;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 10px;
+  width: 90px;
+}
